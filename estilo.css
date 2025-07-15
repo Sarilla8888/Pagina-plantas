@@ -108,6 +108,8 @@ nav{
 .pl1{
     display: block;
     transition: opacity 0.2s ease;
+    height: 30vh;
+    width: 100%;
 }
 
 .pl1w:hover .pl1{
